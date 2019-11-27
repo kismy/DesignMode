@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: bbf8a399dfd8c774199dfc04a62fec1c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 6wvn3-vx7xx_0
+    21300002: 6wvn3-vx7xx_1
+    21300004: 6wvn3-vx7xx_2
+    21300006: 6wvn3-vx7xx_3
+    21300008: 6wvn3-vx7xx_4
+    21300010: 6wvn3-vx7xx_5
+    21300012: 6wvn3-vx7xx_6
+    21300014: 6wvn3-vx7xx_8
+    21300016: 6wvn3-vx7xx_9
+    21300018: 6wvn3-vx7xx_10
+    21300020: 6wvn3-vx7xx_11
+    21300022: 6wvn3-vx7xx_14
+    21300024: 6wvn3-vx7xx_15
+    21300026: 6wvn3-vx7xx_17
+    21300028: 6wvn3-vx7xx_18
+    21300030: 6wvn3-vx7xx_20
+    21300032: 6wvn3-vx7xx_23
+    21300034: 6wvn3-vx7xx_24
+    21300036: 6wvn3-vx7xx_26
+    21300038: 6wvn3-vx7xx_27
+    21300040: 6wvn3-vx7xx_28
+    21300042: 6wvn3-vx7xx_30
+    21300044: 6wvn3-vx7xx_31
+    21300046: background_01
+    21300048: background_02
+    21300050: ButtonAudio
+    21300052: SkardFlatAtlas_3
+    21300054: mute
+    21300056: SkardFlatAtlas_5
+    21300058: SkardFlatAtlas_6
+    21300060: SkardFlatAtlas_7
+    21300062: ButtonRank
+    21300064: SkardFlatAtlas_9
+    21300066: SkardFlatAtlas_10
+    21300068: SkardFlatAtlas_11
+    21300070: ButtonSetting
+    21300072: SkardFlatAtlas_13
+    21300074: ButtonPuase
+    21300076: SkardFlatAtlas_15
+    21300078: background_03
+    21300080: SkardFlatAtlas_17
+    21300082: ButtonStar
+    21300084: ButtonReStart
+    21300086: SkardFlatAtlas_20
+    21300088: SkardFlatAtlas_21
+    21300090: SkardFlatAtlas_22
+    21300092: Block
+    21300094: SkardFlatAtlas_24
+    21300096: ButtonFacebook
+    21300098: SkardFlatAtlas_26
+    21300100: SkardFlatAtlas_27
+    21300102: ButtonDelete
+    21300104: SkardFlatAtlas_29
+    21300106: SkardFlatAtlas_30
+    21300108: SkardFlatAtlas_31
+    21300110: ButtonTwiter
+    21300112: ButtonStart
+    21300114: SkardFlatAtlas_34
+    21300116: SkardFlatAtlas_35
+    21300118: SkardFlatAtlas_36
+    21300120: SkardFlatAtlas_37
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 38, z: 39, w: 38}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46f0f758104ed4e9301e7951c2043d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_02
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 368
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 44, z: 38, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fd9bb018182546b8f79048d51e798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAudio
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 394
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff2618dbe79c9e45b40b34e8694e9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mute
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 406
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb4516a34d337419a6c5e6e75c316b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 423
+        width: 120
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7af17e4ea2c164e85f2f7536861b47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 433
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 17, z: 19, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b520cb8d9fd94f4f87ec605df0ab6cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonRank
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 435
+        width: 120
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fffd3dbdba902459a97cd36f4070cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 452
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db631269babccc44ca6ecd563f37b7f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff2046aa33a0fa4a9eb6e4697048b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonSetting
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 244
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec09e07b3985e1438eb1a02a91d5754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 271
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b083edd558d1442a837999be2b0241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonPuase
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 303
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e591a869ab1c4cbacd684694cb190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_03
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 293
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 30, z: 32, w: 28}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d644d75f9e95548ae7046216aa6d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonStar
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 124
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5217ffb3508bda47bc78f3d66e76ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonReStart
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 147
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6718aa7c29853814e8a8cc58ed9e7241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 208
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6543d9060414fd44a94d484b19fede40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 210
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 8, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70136098597be8f488d69761ec6fa44b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonFacebook
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 84
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506488d79db268b4e868eba2ef96c13a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 84
+        width: 38
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637400f6e58c21348b5f4fc2539d8e9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonDelete
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 144
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac4b1944ef3ed14c891e084422ca2df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 163
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a666f1aa5752743b1e0dfe5cea15fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonTwiter
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 18
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa823bea30eea4690561604bf42b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonStart
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 23
+        width: 100
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb08d83e2c8f542a9fb0c60479e4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 30
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfd10004e6cd5a43a132e64a9aac15d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 23
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7188a105d10c941b5adf29123d329a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkardFlatAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6015dc2b7331444a89d0b3b0b849ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a1024f36061e3084d9725283fc79b277
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
